@@ -9,7 +9,7 @@
 <p align='center'><a href="mailto:dinhvanthanh0202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="Email"></a>
 <a href="https://www.facebook.com/emhocdem/"><img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="Facebook"></a>
 <a href="https://codeforces.com/profile/HopefullySky"><img src="https://img.shields.io/badge/-CodeForces-yellow?logo=codeforces&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="Codeforces"></a>
-<a href="https://codeforces.com/profile/HopefullySky"><img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="LinkedIn"></a> </p>
+<a href="https://www.linkedin.com/in/thanhdinh1202/"><img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="LinkedIn"></a> </p>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=clarissdev&color=00cf00)
 
