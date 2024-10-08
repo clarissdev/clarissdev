@@ -31,7 +31,7 @@
 
 <h2>🤔 What I'm up to</h2>
 
-Currently I am a Research Intern at Huawei Hong Kong Research Center, working primarily on building a parser for Tensor Query Language. Previously I worked mainly as a frontend software engineers in <a href='https://kreate.art/'>kreate.art</a>. I also contributed to some university projects as a frontend lead.
+Currently I am a Research Intern at Huawei Hong Kong Research Center, working primarily on building a parser for Tensor Query Language. Previously I worked mainly as a frontend software engineer at <a href='https://kreate.art/'>kreate.art</a>. I also contributed to some university projects as a frontend lead.
 
 🌍 I am now open to software engineering positions for graduation. I am proficient in C++, Java, Python, JavaScript, TypeScript and I really love to overcome challenges and bring values.
 
