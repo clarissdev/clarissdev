@@ -4,7 +4,7 @@
   I am Thanh, Dinh Van Thanh
 </p>
 <p align='center'>
-  <img src="/assets/dahyun.gif" width="200px">
+  <img src="/assets/dahyun.gif" width="200px" style="border-radius: 6px">
 </p>
 <p align='center'><a href="mailto:dinhvanthanh0202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="Email"></a>
 <a href="https://www.facebook.com/emhocdem/"><img src="https://img.shields.io/badge/-Facebook-blue?logo=facebook&amp;logoWidth=10&amp;logoColor=white&amp;style=for-the-badge" alt="Facebook"></a>
